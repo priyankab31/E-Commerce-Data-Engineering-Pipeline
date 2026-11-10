@@ -1,1 +1,28 @@
 
+project:
+  name: ecommerce-data-engineering-pipeline
+  environment: development
+
+data:
+  raw_directory: data/raw
+  processed_directory: data/processed
+
+  files:
+    customers: customers.csv
+    products: products.csv
+    orders: orders.csv
+    payments: payments.csv
+
+pipeline:
+  save_csv: true
+  load_postgres: false
+
+quality:
+  reject_negative_prices: true
+  reject_negative_payments: true
+  remove_duplicate_ids: true
+
+logging:
+  level: INFO
+  file: logs/pipeline.log
+
