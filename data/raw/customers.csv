@@ -1,1 +1,9 @@
-
+customer_id,customer_name,email,city,country,registration_date
+C001,Alice Johnson,alice@example.com,Berlin,Germany,2025-01-10
+C002,David Smith,david@example.com,Hamburg,Germany,2025-02-15
+C003,Sophia Brown,sophia@example.com,Munich,Germany,2025-03-20
+C004,Michael Wilson,michael@example.com,Frankfurt,Germany,2025-04-05
+C005,Emma Davis,emma@example.com,Berlin,Germany,2025-05-12
+C006,James Miller,james@example.com,Cologne,Germany,2025-06-18
+C007,Olivia Taylor,olivia@example.com,Stuttgart,Germany,2025-07-22
+C008,Daniel Anderson,daniel@example.com,Hamburg,Germany,2025-08-30
