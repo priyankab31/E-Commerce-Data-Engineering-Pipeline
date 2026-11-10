@@ -1,1 +1,12 @@
-
+payment_id,order_id,payment_date,payment_method,payment_status,amount
+PAY001,O001,2026-01-05,Credit Card,Paid,1200
+PAY002,O002,2026-01-08,PayPal,Paid,240
+PAY003,O003,2026-01-12,Credit Card,Paid,800
+PAY004,O004,2026-01-15,PayPal,Paid,150
+PAY005,O006,2026-02-02,Credit Card,Paid,400
+PAY006,O007,2026-02-10,Bank Transfer,Paid,600
+PAY007,O008,2026-02-15,Credit Card,Paid,105
+PAY008,O009,2026-02-20,PayPal,Pending,800
+PAY009,O010,2026-03-01,Credit Card,Paid,1200
+PAY010,O011,2026-03-05,PayPal,Paid,120
+PAY011,O012,2026-03-10,Bank Transfer,Paid,500
